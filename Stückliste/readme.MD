@@ -1,0 +1,2 @@
+### Eine vollständige Bestellung exklusive Platine selbst und Display kann hier als [Mouser Projekt](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=aab402505e) gefunden werden.
+### Das Display kann auf [Aliexpress](https://de.aliexpress.com/item/32829704426.html) gefunden werden. Sollte der Link inaktiv werden, sollte mit der Suchanfrage "3,5 Zoll ILI9488 Resistiv Touch" ein passendes Modell auffindbar sein.
