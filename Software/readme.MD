@@ -10,7 +10,6 @@ Dient nur zu simplen Testzwecken
 ### measure_only
 Entpsricht dem Originalcode, jedoch wurde alles was mit der Nutzeroberfläche oder demm Display zutun hat entfernt. Dient der reinen Analogwertaufnahme (wenn funktional implementiert)
 \
-\
 ---
 \
 Bei den .uf2 Datein ahndelt es sich um Firmwaredatein für den Pi Pico, einerseits der normalen Micropython Firmware und 2 Micropython Firmware Datein in die die LVGL Bibliothek für Micropython integriert wurde.\
