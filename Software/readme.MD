@@ -7,4 +7,5 @@ Die vollständige Originalsoftware, so abgeändert dass main.py und scope.py feh
 Dieses kurze Skript liest die Daten der Datenbus Pins per normalem Code und gibt diese auf dem Terminal aus, zusätzlich wird ein passende Clock Signal generiert.\
 Dient nur zu simplen Testzwecken
 \
-###
+###measure_only
+Entpsricht dem Originalcode, jedoch wurde alles was mit der Nutzeroberfläche oder demm Display zutun hat entfernt. Dient der reinen Analogwertaufnahme (wenn funktional implementiert)
